@@ -20,7 +20,7 @@ sudo ./install.sh
 ##Ergebnis: wurf.png 
 ```
 
-# Nurzung in Windows
+# Nutzung in Windows
 ```
 wurf.py ##öffnen und Werte eingeben
 wurf.plt ##öffnen => wurf.png wird generiert
