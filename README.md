@@ -16,7 +16,7 @@ sudo ./install.sh
 
 # Nutzung Linux
 ```
-./start.sh ##öffnen
+./start.sh ##öffnen und Werte eingeben
 ##Ergebnis: wurf.png 
 ```
 
