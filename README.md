@@ -17,13 +17,13 @@ sudo ./install.sh
 # Nutzung Linux
 ```
 ./start.sh ##öffnen
-##Ergebniss: wurf.png 
+##Ergebnis: wurf.png 
 ```
 
 # Nurzung in Windows
 ```
 wurf.py ##öffnen und Werte eingeben
 wurf.plt ##öffnen => wurf.png wird generiert
-##Ergebniss: wurf.png
+##Ergebnis: wurf.png
 ```
 
