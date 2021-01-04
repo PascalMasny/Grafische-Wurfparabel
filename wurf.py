@@ -1,9 +1,6 @@
 #Wurfparabel
 
-#https://repl.it/languages/python3
-
 #imports
-
 import time
 import math
 import decimal
@@ -19,8 +16,6 @@ g= 4.5
 n = 0
 
 #Hello and inputs
-print("Wurfparabel Rechner by Pascal Masny")
-print("")
 b=float(input("Wurfwinkel Beta (Grad):"))
 v=float(input("Wurfgeschwindigkeit(m/s):"))
 z=float(input("Starthöhe (m):"))
