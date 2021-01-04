@@ -9,7 +9,7 @@ Grafische Wurfparabel mit Python und Gnuplot
 1. [Python 3](https://www.python.org/)
 2. [Gnuplot](http://www.gnuplot.info/)
 ```
-git clone https://github.com/PasiXD189/Wurfparabel.git
+git clone https://github.com/PasiXD189/Grafische-Wurfparabel.git
 cd Wurfparabel
 sudo ./install.sh
 ```
