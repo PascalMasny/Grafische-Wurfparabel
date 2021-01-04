@@ -5,7 +5,7 @@ Grafische Wurfparabel mit Python und Gnuplot
 ![alg.Wurfparabel](https://upload.wikimedia.org/wikipedia/commons/b/b4/Wurfparabel_Zusammenfassung_aktualisierung.png)
 [Wikipedia](https://de.wikipedia.org/wiki/Wurfparabel)
 
-# Instalation
+# Installation
 1. [Python 3](https://www.python.org/)
 2. [Gnuplot](http://www.gnuplot.info/)
 ```
